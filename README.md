@@ -22,7 +22,7 @@ The circuit utilizes a **Miller compensation capacitor (C16)** to perform pole-s
 
 
 ## Project Metadata
-* **Designer:** [Your Name]
+* **Designer:** Harshit Joshi
 * **Guide:** Siddharth Singh Parihar Sir
 * **Tools Used:** Synopsys Custom Compiler, LTspice XVII (via Bottles/Wine)
 * **Operating System:** AlmaLinux 8 (Flatpak/Bottles environment)
