@@ -44,7 +44,7 @@ The Bode plot illustrates the open-loop frequency response. The Miller compensat
 
 ### 3. Transient Response
 Verified in a unity-gain buffer configuration using a 1MHz sine wave. The output tracks the input with minimal distortion.
-![Transient Response](results/transient_sine.png)
+![Transient Response](results/transient_response.png)
 
 ---
 
